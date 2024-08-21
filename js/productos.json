@@ -2,7 +2,7 @@
     {
         "id": "camisetas-01",
         "titulo": "Remera Campeón 2024",
-        "imagen": "./assets/remeracampeonescopaamerica.avif",
+        "imagen": "./assets/camisetas/remeracampeonescopaamerica.avif",
         "categoria": {
             "nombre": "Camisetas",
             "id": "camisetas"
@@ -12,7 +12,7 @@
     {
         "id": "camisetas-02",
         "titulo": "Camiseta Titular 24",
-        "imagen": "./assets/camisetatitularcopaamerica.avif",
+        "imagen": "./assets/camisetas/camisetatitularcopaamerica.avif",
         "categoria": {
             "nombre": "Camisetas",
             "id": "camisetas"
@@ -22,7 +22,7 @@
     {
         "id": "camisetas-03",
         "titulo": "Camiseta Titular 24 Messi",
-        "imagen": "./assets/camisetatitularcopaamericamessi.avif",
+        "imagen": "./assets/camisetas/camisetatitularcopaamericamessi.avif",
         "categoria": {
             "nombre": "Camisetas",
             "id": "camisetas"
@@ -32,7 +32,7 @@
     {
         "id": "camisetas-04",
         "titulo": "Camiseta Alternativa 24",
-        "imagen": "./assets/camisetasuplentecopaamerica.avif",
+        "imagen": "./assets/camisetas/camisetasuplentecopaamerica.avif",
         "categoria": {
             "nombre": "Camisetas",
             "id": "camisetas"
@@ -42,7 +42,7 @@
     {
         "id": "camisetas-05",
         "titulo": "Camiseta Arquero 24",
-        "imagen": "./assets/camisetaarquerocopaamerica.avif",
+        "imagen": "./assets/camisetas/camisetaarquerocopaamerica.avif",
         "categoria": {
             "nombre": "Camisetas",
             "id": "camisetas"
@@ -52,7 +52,7 @@
     {
         "id": "camisetas-06",
         "titulo": "Camiseta Prepartido 24",
-        "imagen": "./assets/camisetaprepartidocopaamerica.avif",
+        "imagen": "./assets/camisetas/camisetaprepartidocopaamerica.avif",
         "categoria": {
             "nombre": "Camisetas",
             "id": "camisetas"
@@ -62,7 +62,7 @@
     {
         "id": "pantalones-01",
         "titulo": "Short Titular Blanco 24",
-        "imagen": "./assets/shortblancocopaamerica.avif",
+        "imagen": "./assets/pantalones/shortblancocopaamerica.avif",
         "categoria": {
             "nombre": "Pantalones",
             "id": "pantalones"
@@ -72,7 +72,7 @@
     {
         "id": "pantalones-02",
         "titulo": "Short Titular Negro 24",
-        "imagen": "./assets/shortnegrocopaamerica.avif",
+        "imagen": "./assets/pantalones/shortnegrocopaamerica.avif",
         "categoria": {
             "nombre": "Pantalones",
             "id": "pantalones"
@@ -82,7 +82,7 @@
     {
         "id": "pantalones-03",
         "titulo": "Short Alternativo 24",
-        "imagen": "./assets/shortazulcopaamerica.avif",
+        "imagen": "./assets/pantalones/shortazulcopaamerica.avif",
         "categoria": {
             "nombre": "Pantalones",
             "id": "pantalones"
@@ -92,7 +92,7 @@
     {
         "id": "camisetas-07",
         "titulo": "Remera ADN 24",
-        "imagen": "./assets/remeraadntrestiras.avif",
+        "imagen": "./assets/camisetas/remeraadntrestiras.avif",
         "categoria": {
             "nombre": "Camisetas",
             "id": "camisetas"
@@ -102,7 +102,7 @@
     {
         "id": "pantalones-04",
         "titulo": "Pantalón Deportivo ADN 24",
-        "imagen": "./assets/pantalondeportivoadn.avif",
+        "imagen": "./assets/pantalones/pantalondeportivoadn.avif",
         "categoria": {
             "nombre": "Pantalones",
             "id": "pantalones"
@@ -112,7 +112,7 @@
     {
         "id": "abrigo-01",
         "titulo": "Campera ADN 24",
-        "imagen": "./assets/camperacapuchaadn.avif",
+        "imagen": "./assets/abrigos/camperacapuchaadn.avif",
         "categoria": {
             "nombre": "Abrigos",
             "id": "abrigos"
@@ -122,7 +122,7 @@
     {
         "id": "camisetas-08",
         "titulo": "Remera Estampada 24",
-        "imagen": "./assets/remeraestampada.avif",
+        "imagen": "./assets/camisetas/remeraestampada.avif",
         "categoria": {
             "nombre": "Camisetas",
             "id": "camisetas"
@@ -132,7 +132,7 @@
     {
         "id": "abrigo-02",
         "titulo": "Campera Rompeviento ADN 24",
-        "imagen": "./assets/rompevientoadn.avif",
+        "imagen": "./assets/abrigos/rompevientoadn.avif",
         "categoria": {
             "nombre": "Abrigos",
             "id": "abrigos"
@@ -142,7 +142,7 @@
     {
         "id": "camisetas-09",
         "titulo": "Chomba 3 Tiras ADN 24",
-        "imagen": "./assets/chombatrestirasadn.avif",
+        "imagen": "./assets/camisetas/chombatrestirasadn.avif",
         "categoria": {
             "nombre": "Camisetas",
             "id": "camisetas"
@@ -152,7 +152,7 @@
     {
         "id": "abrigo-03",
         "titulo": "Buzo con Cuello Redondo",
-        "imagen": "./assets/buzocuelloredondo,avif",
+        "imagen": "./assets/abrigos/buzocuelloredondo,avif",
         "categoria": {
             "nombre": "Abrigos",
             "id": "abrigos"
@@ -162,7 +162,7 @@
     {
         "id": "abrigo-04",
         "titulo": "Campera Deportiva ADN",
-        "imagen": "./assets/camperadeportivaadn.avif",
+        "imagen": "./assets/abrigos/camperadeportivaadn.avif",
         "categoria": {
             "nombre": "Abrigos",
             "id": "abrigo-05"
@@ -172,7 +172,7 @@
     {
         "id": "pantalones-05",
         "titulo": "Short Alternativo 1994",
-        "imagen": "./assets/short1994.avif",
+        "imagen": "./assets/pantalones/short1994.avif",
         "categoria": {
             "nombre": "Pantalones",
             "id": "pantalones"
@@ -182,7 +182,7 @@
     {
         "id": "pantalones-06",
         "titulo": "Pantalón de Entrenamiento Tiro 24",
-        "imagen": "./assets/pantalonentrenamientotiro.avif",
+        "imagen": "./assets/pantalones/pantalonentrenamientotiro.avif",
         "categoria": {
             "nombre": "Pantalones",
             "id": "pantalones"
@@ -192,7 +192,7 @@
     {
         "id": "abrigo-06",
         "titulo": "Campera Tiro 24 All-Weather",
-        "imagen": "./assets/rompevientoallweather.avif",
+        "imagen": "./assets/abrigos/rompevientoallweather.avif",
         "categoria": {
             "nombre": "Abrigos",
             "id": "abrigos"
@@ -202,7 +202,7 @@
     {
         "id": "pantalones-07",
         "titulo": "Pantalón Presentación 24",
-        "imagen": "./assets/pantalonpresentacion.avif",
+        "imagen": "./assets/pantalones/pantalonpresentacion.avif",
         "categoria": {
             "nombre": "Pantalones",
             "id": "pantalones"
@@ -212,7 +212,7 @@
     {
         "id": "abrigo-07",
         "titulo": "Campera Presentación 24",
-        "imagen": "./assets/camperapresentacion.avif",
+        "imagen": "./assets/abrigos/camperapresentacion.avif",
         "categoria": {
             "nombre": "Abrigos",
             "id": "abrigos"
@@ -222,7 +222,7 @@
     {
         "id": "pantalones-08",
         "titulo": "Short Descanso 24",
-        "imagen": "./assets/shortdescanso24.avif",
+        "imagen": "./assets/pantalones/shortdescanso24.avif",
         "categoria": {
             "nombre": "Pantalones",
             "id": "pantalones"
@@ -232,7 +232,7 @@
     {
         "id": "pantalones-09",
         "titulo": "Short Arquero 24",
-        "imagen": "./assets/shortarquero.avif",
+        "imagen": "./assets/pantalones/shortarquero.avif",
         "categoria": {
             "nombre": "Pantalones",
             "id": "pantalones"
@@ -242,7 +242,7 @@
     {
         "id": "camisetas-10",
         "titulo": "Camiseta de Entrenamiento Tiro 24 Competition",
-        "imagen": "./assets/camisetaentrenamientocompetition.avif",
+        "imagen": "./assets/camisetas/camisetaentrenamientocompetition.avif",
         "categoria": {
             "nombre": "Camisetas",
             "id": "camisetas"
@@ -252,7 +252,7 @@
     {
         "id": "camisetas-11",
         "titulo": "Remera Negra 24",
-        "imagen": "./assets/remeranegra.avif",
+        "imagen": "./assets/camisetas/remeranegra.avif",
         "categoria": {
             "nombre": "Camisetas",
             "id": "camisetas"
@@ -262,7 +262,7 @@
     {
         "id": "abrigo-08",
         "titulo": "Campera Tiro 24 All-Weather Negro",
-        "imagen": "./assets/rompevientoallweathernegra.avif",
+        "imagen": "./assets/abrigos/rompevientoallweathernegra.avif",
         "categoria": {
             "nombre": "Abrigos",
             "id": "abrigos"
@@ -272,7 +272,7 @@
     {
         "id": "pantalones-10",
         "titulo": "Short de Entrenamiento Tiro 24",
-        "imagen": "./assets/shortentrenamientotiro.avif",
+        "imagen": "./assets/pantalones/shortentrenamientotiro.avif",
         "categoria": {
             "nombre": "Pantalones",
             "id": "pantalones"
@@ -282,7 +282,7 @@
     {
         "id": "camisetas-12",
         "titulo": "Camiseta de Entrenamiento Tiro 24 Competition Negra",
-        "imagen": "./assets/camisetaentrenamientocompetitionnegra.avif",
+        "imagen": "./assets/camisetas/camisetaentrenamientocompetitionnegra.avif",
         "categoria": {
             "nombre": "Camisetas",
             "id": "camisetas"
@@ -292,7 +292,7 @@
     {
         "id": "abrigo-09",
         "titulo": "Conjunto Tiro 24",
-        "imagen": "./assets/conjuntotiro.avif",
+        "imagen": "./assets/abrigos/conjuntotiro.avif",
         "categoria": {
             "nombre": "Abrigos",
             "id": "abrigos"
@@ -302,7 +302,7 @@
     {
         "id": "camisetas-13",
         "titulo": "Remera 24",
-        "imagen": "./assets/remera.avif",
+        "imagen": "./assets/camisetas/remera.avif",
         "categoria": {
             "nombre": "Camisetas",
             "id": "camisetas"
@@ -312,7 +312,7 @@
     {
         "id": "pantalones-11",
         "titulo": "Pantalón Deportivo 1994",
-        "imagen": "./assets/pantalon1994.avif",
+        "imagen": "./assets/pantalones/pantalon1994.avif",
         "categoria": {
             "nombre": "Pantalones",
             "id": "pantalones"
@@ -322,7 +322,7 @@
     {
         "id": "abrigo-10",
         "titulo": "Buzo de Entrenamiento Tiro 24 Competition",
-        "imagen": "./assets/buzoentrenamiento.avif",
+        "imagen": "./assets/abrigos/buzoentrenamiento.avif",
         "categoria": {
             "nombre": "Abrigos",
             "id": "abrigos"
@@ -332,7 +332,7 @@
     {
         "id": "abrigo-11",
         "titulo": "Campera Anthem ",
-        "imagen": "./assets/camperaanthem.avif",
+        "imagen": "./assets/abrigos/camperaanthem.avif",
         "categoria": {
             "nombre": "Abrigos",
             "id": "abrigos"
@@ -342,7 +342,7 @@
     {
         "id": "pantalones-12",
         "titulo": "Short Tiro Pro 24",
-        "imagen": "./assets/shorttiropro.avif",
+        "imagen": "./assets/pantalones/shorttiropro.avif",
         "categoria": {
             "nombre": "Pantalones",
             "id": "pantalones"
@@ -352,7 +352,7 @@
     {
         "id": "camisetas-14",
         "titulo": "Camiseta Alternativa 1994 Maradona",
-        "imagen": "./assets/camisetadiego.avif",
+        "imagen": "./assets/camisetas/camisetadiego.avif",
         "categoria": {
             "nombre": "Camisetas",
             "id": "camisetas"
@@ -362,7 +362,7 @@
     {
         "id": "pantalones-13",
         "titulo": "Short Descanso 23",
-        "imagen": "./assets/shortdescanso23.avif",
+        "imagen": "./assets/pantalones/shortdescanso23.avif",
         "categoria": {
             "nombre": "Pantalones",
             "id": "pantalones"
@@ -372,7 +372,7 @@
     {
         "id": "camisetas-15",
         "titulo": "Remera Campeón Mundial 2022",
-        "imagen": "./assets/remeracampeonqatar.avif",
+        "imagen": "./assets/camisetas/remeracampeonqatar.avif",
         "categoria": {
             "nombre": "Camisetas",
             "id": "camisetas"
