@@ -452,10 +452,18 @@ function actualizarBotonesAgregar() {
 const productosEnCarrito = [];
 
 function agregarAlCarrito(e) {
+
     const idBoton = e.currentTarget.id;
     const productoAgregado = productos.find(producto => producto.id === idBoton);
-    
-    productosEnCarrito.push(productoAgregado);
+
+    if(productosEnCarrito.some(producto => producto.id === idBoton)){
+
+    } else {
+        productoAgregado.cantidad = 1;
+        productosEnCarrito.push(productoAgregado);
+    }
+
     console.log(productosEnCarrito);
+    
 
 }

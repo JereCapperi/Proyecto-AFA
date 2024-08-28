@@ -19,40 +19,40 @@ a{
 }
 
 .wrapper{
-    display: grid;
-    grid-template-columns: 1fr 4fr;
     background-color: rgb(57, 90, 151);
 }
 aside{
     padding: 2rem;
-    padding-right: 0;
     color: white;
-    position: sticky;
-    top: 0;
-    height: 100vh;
     display: flex;
-    flex-direction: column;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
-.logo{
-    font-weight: 400;
-    font-size: 2.3rem ;
-}
 header{
+    display: flex;
+    align-items: center;
+}
+.logo{
+    display: flex;
+    padding-right: 7rem;
+}
+
+.logoheader{
+    font-weight: 400;
+    font-size: 2.3rem;
     display: flex;
     align-items: center;
 }
 
 .logoafa{
     display: flex;
-    max-width: 20%;
+    width: 3rem;
 }
 
 .menu{
     display: flex;
-    flex-direction: column;
-    gap: 1.5rem;
+    align-items: center;
+    justify-content: space-around;
 }
 
 .boton-menu{
@@ -73,9 +73,7 @@ header{
 .boton-menu.active{
     background-color: white;
     color: rgb(57, 90, 151);
-    border-top-left-radius: 1rem;
-    border-bottom-left-radius: 1rem;
-    position: relative;
+    border-radius: 1rem;
 }
 
 .boton-menu.active::before{
@@ -104,10 +102,6 @@ header{
     transform: rotateZ(90deg);
 }
 
-.boton-carrito{
-    margin-top: 2.5rem;
-}
-
 .numerito{
     background-color: white;
     color: rgb(57, 90, 151);
@@ -115,22 +109,17 @@ header{
     border-radius: .25rem;
 }
 
-.texto-footer{
-    color: rgb(8, 30, 71);
-    font-size: 0.85rem;
-}
-
 main{
     background-color: white;
-    margin: 1rem;
-    margin-left: 0;
-    border-radius: 2rem;
+    border-radius: 3rem;
     padding: 3rem;
 }
 
 .titulo-principal{
     color: rgb(57, 90, 151);
     margin-bottom: 2rem;
+    display: flex;
+    justify-content: center;
 }
 
 .contenedor-productos{
@@ -177,12 +166,58 @@ main{
     color: white    ;
 }
 
+
+/** Footer **/
+
+  
+footer{
+    border-radius: 1rem;
+    margin-top: 2rem;
+}
+
+footer div{
+    display: flex;
+    align-items: center;
+    margin: 1%;
+}
+
+footer section{
+    background-color: rgb(75, 109, 173);
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: center;
+}
+
+footer img{
+    width: 50px;
+}
+
+h6{
+    color: rgb(8, 30, 71);
+}
+h4 {
+    color: rgb(255, 255, 255);
+    font-size: 1.5rem;
+}
+.copyright{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 0.90rem;
+}
+
+
 /** Carrito**/
 
 .contenedor-carrito {
     display: flex;
     flex-direction: column;
     gap: 1.5rem;
+}
+
+.carrito-menu{
+    display: flex;
 }
 
 .carrito-vacio {
